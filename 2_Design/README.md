@@ -1,6 +1,5 @@
 # structural Diagram
-
-![Blank diagram](https://user-images.githubusercontent.com/101981165/161392599-3b312c37-928c-44da-b570-5caaf6d84314.jpeg)
+![Blank diagram (1)](https://user-images.githubusercontent.com/101981165/161392640-cabf7594-3eb3-49ca-969e-439d67bea5d1.jpeg)
 
 # Flowchart
 
