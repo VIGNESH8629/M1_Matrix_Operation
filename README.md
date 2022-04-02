@@ -17,3 +17,6 @@ A square matrix is a matrix with the same number of rows and columns. An n-by-n 
 
 * Build on Linux
 [![Build CI -Linux](https://github.com/VIGNESH8629/M1_Matrix_Operation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VIGNESH8629/M1_Matrix_Operation/actions/workflows/c-cpp.yml)
+
+* Cppcheck Analysis
+[![Cppcheck-analysis](https://github.com/VIGNESH8629/M1_Matrix_Operation/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/VIGNESH8629/M1_Matrix_Operation/actions/workflows/cppcheck-analysis.yml)
