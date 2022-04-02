@@ -6,3 +6,4 @@
 
 
 # Sequence Diagram
+![Blank diagram](https://user-images.githubusercontent.com/101981165/161392293-f768d7fd-cf59-4ad4-818f-35c946cd18ee.jpeg)
