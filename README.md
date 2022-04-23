@@ -12,7 +12,7 @@ A square matrix is a matrix with the same number of rows and columns. An n-by-n 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d096c9152a8c4737bf2165851e046b95)](https://app.codacy.com/gh/VIGNESH8629/M1_Matrix_Operation?utm_source=github.com&utm_medium=referral&utm_content=VIGNESH8629/M1_Matrix_Operation&utm_campaign=Badge_Grade_Settings)
 
 * Codiga - Static Analysis
-![Quality](https://api.codiga.io/project/32390/status/svg)
+![Quality](https://api.codiga.io/project/33122/status/svg)
 
 
 * Build on Linux
